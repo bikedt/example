@@ -16,3 +16,6 @@ ul {
 	font-size:large;
 	
 }
+.dropdown-backdrop {
+    position: static;
+}
